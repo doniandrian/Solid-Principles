@@ -27,4 +27,4 @@ class OrderService {
     }
 }
 
-//Jika database diganti ke PostgreSQL atau Kita ingin membuat Unit Test dengan Mock Database, Kita harus membongkar kode di dalam OrderService
+//kalo database diganti ke PostgreSQL atau Kita mau membuat Unit Test dengan Mock Database, Kita harus bongkar kode di dalam OrderService
